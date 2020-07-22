@@ -10,6 +10,7 @@ logging.basicConfig(filename="newfile.log",
                     filemode='w') 
 logger=logging.getLogger() 
 logger.setLevel(logging.DEBUG)
+
 def read_in():
     #Reads in file paths from config file and put them into a single dataframe
     coal = pd.read_csv(file_path_1)
