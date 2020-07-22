@@ -1,0 +1,7 @@
+file_path_1 = '/Users/nickthomas/projects/chicago_energy_usage/data/Net_generation_for_coal.csv'
+file_path_2 = '/Users/nickthomas/projects/chicago_energy_usage/data/Net_generation_for_natural_gas.csv'
+file_path_3 = '/Users/nickthomas/projects/chicago_energy_usage/data/Net_generation_for_wind.csv'
+file_path_4 = '/Users/nickthomas/projects/chicago_energy_usage/data/Net_generation_for_other_renewables.csv'
+file_path_5 = '/Users/nickthomas/projects/chicago_energy_usage/data/Net_generation_for_nuclear.csv'
+file_path_6 = '/Users/nickthomas/projects/chicago_energy_usage/data/Net_generation_for_conventional_hydroelectric.csv'
+file_path_7 = '/Users/nickthomas/projects/chicago_energy_usage/data/Net_generation_for_petroleum_liquids.csv'
